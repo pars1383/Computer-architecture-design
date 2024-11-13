@@ -1,0 +1,106 @@
+F:/UT/T6/CA/CA/CA2/code/Adder.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/Extend.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/Extend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Extend
+
+Top level modules:
+	Extend
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/RiscVSingleCycle.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/RiscVSingleCycle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscVSingleCycle
+
+Top level modules:
+	RiscVSingleCycle
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/InstructionMemory.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/InstructionMemory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/DataMemory.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/DataMemory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/TB.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/PCController.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/PCController.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PCController
+
+Top level modules:
+	PCController
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/Mux2to1.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/Mux2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/MainController.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/MainController.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MainController
+
+Top level modules:
+	MainController
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/ControlUnit.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/ControlUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/ALU.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/Mux4to1.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/Mux4to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4to1
+
+Top level modules:
+	Mux4to1
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/RegisterFile.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/RegisterFile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/Register.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/Register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} F:/UT/T6/CA/CA/CA2/code/ALUController.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA2/code/ALUController.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUController
+
+Top level modules:
+	ALUController
+
+} {} {}}

@@ -1,0 +1,395 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/UT/T6/DLD-Lab/Lab3
+vAdder
+Z0 !s110 1716396374
+!i10b 1
+!s100 R>V<<oM^8ci>K?oF>J3X<2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKA5m?0HU:jfT1?hIcQ4_?2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/univrsity/Computer Arch/CA/2/final/code
+w1715210304
+8D:/univrsity/Computer Arch/CA/2/final/code/Adder.v
+FD:/univrsity/Computer Arch/CA/2/final/code/Adder.v
+!i122 377
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1716396374.000000
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/Adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 ef^XL<?NZ@SQo2GM5oS3U0
+R1
+I<XLZ1hhEbiKU=ClMN7Dm33
+R2
+R3
+w1715197024
+8D:/univrsity/Computer Arch/CA/2/final/code/ALU.v
+FD:/univrsity/Computer Arch/CA/2/final/code/ALU.v
+!i122 378
+L0 9 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vALUController
+R0
+!i10b 1
+!s100 N1T`JTF_@jN;6UEdMkO?P1
+R1
+ITfK4zz0SC38e:7j<94ghn0
+R2
+R3
+w1714941664
+8D:/univrsity/Computer Arch/CA/2/final/code/ALUController.v
+FD:/univrsity/Computer Arch/CA/2/final/code/ALUController.v
+!i122 379
+L0 9 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/ALUController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/ALUController.v|
+!i113 1
+R6
+R7
+n@a@l@u@controller
+vControlUnit
+R0
+!i10b 1
+!s100 3Dji3O?Y48[[>WO8a2`P`0
+R1
+IL>A]W>061ndK;WZO6c[^L1
+R2
+R3
+w1715167808
+8D:/univrsity/Computer Arch/CA/2/final/code/ControlUnit.v
+FD:/univrsity/Computer Arch/CA/2/final/code/ControlUnit.v
+!i122 380
+L0 1 14
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/ControlUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/ControlUnit.v|
+!i113 1
+R6
+R7
+n@control@unit
+vDataMemory
+R0
+!i10b 1
+!s100 CRiVORCd2b6DVmc4o5[^T1
+R1
+IhHl9KcB:NJTBn9PWkljmz0
+R2
+R3
+w1715192136
+8D:/univrsity/Computer Arch/CA/2/final/code/DataMemory.v
+FD:/univrsity/Computer Arch/CA/2/final/code/DataMemory.v
+!i122 381
+L0 1 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/DataMemory.v|
+!i113 1
+R6
+R7
+n@data@memory
+vDataPath
+!s110 1715167462
+!i10b 1
+!s100 M@oEk7GKUK;fmY]7HPT4L2
+R1
+I>^X;2211;:7Q91Y89_fMJ2
+R2
+dF:/UT/T6/CA/CA/CA2/code
+w1715164807
+8F:/UT/T6/CA/CA/CA2/code/DataPath.v
+FF:/UT/T6/CA/CA/CA2/code/DataPath.v
+!i122 72
+L0 1 71
+R4
+r1
+!s85 0
+31
+!s108 1715167462.000000
+!s107 F:/UT/T6/CA/CA/CA2/code/DataPath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA2/code/DataPath.v|
+!i113 1
+R6
+R7
+n@data@path
+vExtend
+Z8 !s110 1716396375
+!i10b 1
+!s100 EA<j_1MdWL`DFmU`<0_eU2
+R1
+IjNlF@ECH2_a<2I0?7;7gl1
+R2
+R3
+w1715167460
+8D:/univrsity/Computer Arch/CA/2/final/code/Extend.v
+FD:/univrsity/Computer Arch/CA/2/final/code/Extend.v
+!i122 382
+L0 7 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/Extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/Extend.v|
+!i113 1
+R6
+R7
+n@extend
+vInstructionMemory
+R8
+!i10b 1
+!s100 :@UGJ2BH<P>zCBbmJM;ze3
+R1
+IM=?HYhQG6VT]Ao[OQ3SQF2
+R2
+R3
+w1715192332
+8D:/univrsity/Computer Arch/CA/2/final/code/InstructionMemory.v
+FD:/univrsity/Computer Arch/CA/2/final/code/InstructionMemory.v
+!i122 383
+L0 1 13
+R4
+r1
+!s85 0
+31
+Z9 !s108 1716396375.000000
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/InstructionMemory.v|
+!i113 1
+R6
+R7
+n@instruction@memory
+vMainController
+R8
+!i10b 1
+!s100 ?SI1bJKec:d]LlJ>?;iWM1
+R1
+IK679gSQ4<@dTkNzMF@fC73
+R2
+R3
+w1714941532
+8D:/univrsity/Computer Arch/CA/2/final/code/MainController.v
+FD:/univrsity/Computer Arch/CA/2/final/code/MainController.v
+!i122 384
+L0 10 19
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/MainController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/MainController.v|
+!i113 1
+R6
+R7
+n@main@controller
+vMux2to1
+R8
+!i10b 1
+!s100 4KH3Z8z6VHTQ:3MAh_b;h1
+R1
+I6O7;Nahcaz]nmD[i^A0`c1
+R2
+R3
+w1715167420
+8D:/univrsity/Computer Arch/CA/2/final/code/Mux2to1.v
+FD:/univrsity/Computer Arch/CA/2/final/code/Mux2to1.v
+!i122 385
+L0 1 8
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/Mux2to1.v|
+!i113 1
+R6
+R7
+n@mux2to1
+vMux4to1
+R8
+!i10b 1
+!s100 N_N2KFTacz0ULBZRHJS_X2
+R1
+Ii[G7>KWb>BzRgd0?egDJk0
+R2
+R3
+w1715164326
+8D:/univrsity/Computer Arch/CA/2/final/code/Mux4to1.v
+FD:/univrsity/Computer Arch/CA/2/final/code/Mux4to1.v
+!i122 386
+L0 1 17
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/Mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/Mux4to1.v|
+!i113 1
+R6
+R7
+n@mux4to1
+vPCController
+R8
+!i10b 1
+!s100 X3`=iLSB`D7lRk7RhF0:j1
+R1
+Il:czh[DCY:@eXVSmhMYG?2
+R2
+R3
+w1715251258
+8D:/univrsity/Computer Arch/CA/2/final/code/PCController.v
+FD:/univrsity/Computer Arch/CA/2/final/code/PCController.v
+!i122 387
+L0 1 16
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/PCController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/PCController.v|
+!i113 1
+R6
+R7
+n@p@c@controller
+vRegister
+R8
+!i10b 1
+!s100 Z7B8N1UC;5GziBzX@GA@R0
+R1
+IUbCdaj0?R[4Si1cCSgnW61
+R2
+R3
+w1715164468
+8D:/univrsity/Computer Arch/CA/2/final/code/Register.v
+FD:/univrsity/Computer Arch/CA/2/final/code/Register.v
+!i122 388
+L0 1 11
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/Register.v|
+!i113 1
+R6
+R7
+n@register
+vRegisterFile
+R8
+!i10b 1
+!s100 i8?EU100h^XJ_hc0SUg2I1
+R1
+I^6bfcBOP<Zg:V<zfW7jO[0
+R2
+R3
+w1715192538
+8D:/univrsity/Computer Arch/CA/2/final/code/RegisterFile.v
+FD:/univrsity/Computer Arch/CA/2/final/code/RegisterFile.v
+!i122 389
+L0 1 20
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/RegisterFile.v|
+!i113 1
+R6
+R7
+n@register@file
+vRiscVSingleCycle
+Z10 !s110 1716396376
+!i10b 1
+!s100 F>GH93E]HaEP<;A3X8`D11
+R1
+I;k=zocDTSzo3U1oz7GJQ10
+R2
+R3
+w1715195056
+8D:/univrsity/Computer Arch/CA/2/final/code/RiscVSingleCycle.v
+FD:/univrsity/Computer Arch/CA/2/final/code/RiscVSingleCycle.v
+!i122 390
+L0 1 77
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/RiscVSingleCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/RiscVSingleCycle.v|
+!i113 1
+R6
+R7
+n@risc@v@single@cycle
+vTB
+R10
+!i10b 1
+!s100 ;2VM<K9U:5<P@WMl4C_I;1
+R1
+I6KYZjnF7NikKOIH?PMGA:1
+R2
+R3
+w1715258900
+8D:/univrsity/Computer Arch/CA/2/final/code/TB.v
+FD:/univrsity/Computer Arch/CA/2/final/code/TB.v
+!i122 391
+L0 2 14
+R4
+r1
+!s85 0
+31
+!s108 1716396376.000000
+!s107 D:/univrsity/Computer Arch/CA/2/final/code/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/2/final/code/TB.v|
+!i113 1
+R6
+R7
+n@t@b

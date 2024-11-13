@@ -1,0 +1,99 @@
+{D:/univrsity/Computer Arch/CA/2/final/code/Extend.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/Extend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Extend
+
+Top level modules:
+	Extend
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/Mux2to1.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/Mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/RiscVSingleCycle.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/RiscVSingleCycle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscVSingleCycle
+
+Top level modules:
+	RiscVSingleCycle
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/ControlUnit.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/ControlUnit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/ALU.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/Mux4to1.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/Mux4to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4to1
+
+Top level modules:
+	Mux4to1
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/DataMemory.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/DataMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/TB.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/PCController.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/PCController.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PCController
+
+Top level modules:
+	PCController
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/Adder.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/MainController.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/MainController.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MainController
+
+Top level modules:
+	MainController
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/InstructionMemory.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/InstructionMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/Register.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {D:/univrsity/Computer Arch/CA/2/final/code/RegisterFile.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/2/final/code/RegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}}
