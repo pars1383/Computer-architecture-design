@@ -1,0 +1,243 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcomparator
+Z0 !s110 1710274125
+!i10b 1
+!s100 ?[;zeA2NPokbl<DDJ2egi1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ig7k_i;^@;QkTMOZ[WP;fI2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/UT/T6/CA/CA/CA1/Project
+w1710263844
+8F:/UT/T6/CA/CA/CA1/Project/comparator.v
+FF:/UT/T6/CA/CA/CA1/Project/comparator.v
+!i122 111
+Z4 L0 1 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1710274125.000000
+!s107 F:/UT/T6/CA/CA/CA1/Project/comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/comparator.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vcontroller
+Z9 !s110 1710274126
+!i10b 1
+!s100 a7h8gg>EoT;>GQoz5BD@11
+R1
+Io3=V7o6bE=@j>^PEQ0ZY03
+R2
+R3
+w1710271847
+8F:/UT/T6/CA/CA/CA1/Project/controller.v
+FF:/UT/T6/CA/CA/CA1/Project/controller.v
+!i122 113
+L0 1 51
+R5
+r1
+!s85 0
+31
+Z10 !s108 1710274126.000000
+!s107 F:/UT/T6/CA/CA/CA1/Project/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/controller.v|
+!i113 1
+R7
+R8
+vcounter
+R9
+!i10b 1
+!s100 _zCS5Y5UfWJ77RH89hhaJ3
+R1
+ImW8k:ER3[bS<3EQZi@cW03
+R2
+R3
+w1710271821
+8F:/UT/T6/CA/CA/CA1/Project/counter.v
+FF:/UT/T6/CA/CA/CA1/Project/counter.v
+!i122 112
+L0 1 21
+R5
+r1
+!s85 0
+31
+R10
+!s107 F:/UT/T6/CA/CA/CA1/Project/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/counter.v|
+!i113 1
+R7
+R8
+vdatapath
+R0
+!i10b 1
+!s100 18;kg?^elnaGM:H@Ql0T>3
+R1
+I=3_g<;d9T]2EgS1:@Of]32
+R2
+R3
+w1710273792
+8F:/UT/T6/CA/CA/CA1/Project/datapath.v
+FF:/UT/T6/CA/CA/CA1/Project/datapath.v
+!i122 106
+L0 1 30
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:/UT/T6/CA/CA/CA1/Project/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/datapath.v|
+!i113 1
+R7
+R8
+vdivider
+R9
+!i10b 1
+!s100 E699[Fh>z8jlMXkgzBUO23
+R1
+INd5gD?^hjYa`<aL721P<m1
+R2
+R3
+w1710272521
+8F:/UT/T6/CA/CA/CA1/Project/divider.v
+FF:/UT/T6/CA/CA/CA1/Project/divider.v
+!i122 114
+L0 1 9
+R5
+r1
+!s85 0
+31
+R10
+!s107 F:/UT/T6/CA/CA/CA1/Project/divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/divider.v|
+!i113 1
+R7
+R8
+vdivider_tb
+R9
+!i10b 1
+!s100 66H82i^JZi:PWlHf2kIoU3
+R1
+Ik5cUcnQoG;5Q8_>U>LbT`2
+R2
+R3
+w1710274121
+8F:/UT/T6/CA/CA/CA1/Project/divider_tb.v
+FF:/UT/T6/CA/CA/CA1/Project/divider_tb.v
+!i122 115
+L0 2 27
+R5
+r1
+!s85 0
+31
+R10
+!s107 F:/UT/T6/CA/CA/CA1/Project/divider_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/divider_tb.v|
+!i113 1
+R7
+R8
+vregister
+R0
+!i10b 1
+!s100 L8kzg_ih^ODaK5k5oM5Sb1
+R1
+I6hTk2K^Y@5zE=^cL`gfdo3
+R2
+R3
+w1710271786
+8F:/UT/T6/CA/CA/CA1/Project/register.v
+FF:/UT/T6/CA/CA/CA1/Project/register.v
+!i122 107
+Z11 L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:/UT/T6/CA/CA/CA1/Project/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/register.v|
+!i113 1
+R7
+R8
+vshiftReg10B
+R0
+!i10b 1
+!s100 i4S?T8?HR=HQ5min@C2hR3
+R1
+I<J>5HJT[aR=M^Vn84gh;H1
+R2
+R3
+w1710271751
+8F:/UT/T6/CA/CA/CA1/Project/shiftReg10B.v
+FF:/UT/T6/CA/CA/CA1/Project/shiftReg10B.v
+!i122 108
+L0 1 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:/UT/T6/CA/CA/CA1/Project/shiftReg10B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/shiftReg10B.v|
+!i113 1
+R7
+R8
+nshift@reg10@b
+vshiftReg11B
+R0
+!i10b 1
+!s100 nRHFj=nBGF[LDG_LnV[kc1
+R1
+IY2M^=9d`3O_eIBnb10RiF2
+R2
+R3
+w1710271661
+8F:/UT/T6/CA/CA/CA1/Project/shiftReg11B.v
+FF:/UT/T6/CA/CA/CA1/Project/shiftReg11B.v
+!i122 109
+R11
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:/UT/T6/CA/CA/CA1/Project/shiftReg11B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/shiftReg11B.v|
+!i113 1
+R7
+R8
+nshift@reg11@b
+vsubtractor
+R0
+!i10b 1
+!s100 4NTzgV2JYUYQaY0z4[^oQ1
+R1
+I04e2ohIDG2_`DBe1<k71R0
+R2
+R3
+w1710263846
+8F:/UT/T6/CA/CA/CA1/Project/subtractor.v
+FF:/UT/T6/CA/CA/CA1/Project/subtractor.v
+!i122 110
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:/UT/T6/CA/CA/CA1/Project/subtractor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA1/Project/subtractor.v|
+!i113 1
+R7
+R8

@@ -1,0 +1,71 @@
+{D:/univrsity/Computer Arch/CA/1/shiftReg11B.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/shiftReg11B.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shiftReg11B
+
+Top level modules:
+	shiftReg11B
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/controller.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/comparator.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/comparator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/counter.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/divider_tb.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/divider_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module divider_tb
+
+Top level modules:
+	divider_tb
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/register.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/subtractor.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/subtractor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module subtractor
+
+Top level modules:
+	subtractor
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/shiftReg10B.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/shiftReg10B.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shiftReg10B
+
+Top level modules:
+	shiftReg10B
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/datapath.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {D:/univrsity/Computer Arch/CA/1/divider.v} {1 {vlog -work work -stats=none {D:/univrsity/Computer Arch/CA/1/divider.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module divider
+
+Top level modules:
+	divider
+
+} {} {}}

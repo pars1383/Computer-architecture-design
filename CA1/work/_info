@@ -1,0 +1,243 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/univrsity/Digital_system/CA/verilog_codes/assigment5/New
+vcomparator
+Z0 !s110 1710325642
+!i10b 1
+!s100 ilGPY?KbF;`5Tn?LL9P8>0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+InfJ^JJ=d9=hlQem0WCKA42
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/univrsity/Computer Arch/CA/1
+w1710323855
+8D:/univrsity/Computer Arch/CA/1/comparator.v
+FD:/univrsity/Computer Arch/CA/1/comparator.v
+!i122 48
+Z4 L0 1 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1710325641.000000
+!s107 D:/univrsity/Computer Arch/CA/1/comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/comparator.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vcontroller
+R0
+!i10b 1
+!s100 a7h8gg>EoT;>GQoz5BD@11
+R1
+IWeeZ26;P`l;J=jAIo4WEn1
+R2
+R3
+w1710312433
+8D:/univrsity/Computer Arch/CA/1/controller.v
+FD:/univrsity/Computer Arch/CA/1/controller.v
+!i122 49
+L0 1 51
+R5
+r1
+!s85 0
+31
+Z8 !s108 1710325642.000000
+!s107 D:/univrsity/Computer Arch/CA/1/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/controller.v|
+!i113 1
+R6
+R7
+vcounter
+R0
+!i10b 1
+!s100 40NPkGFh1mk53]heHEHCj0
+R1
+I]ba@c]W]T>7njB[^BR`:Z1
+R2
+R3
+w1710324998
+8D:/univrsity/Computer Arch/CA/1/counter.v
+FD:/univrsity/Computer Arch/CA/1/counter.v
+!i122 50
+L0 1 21
+R5
+r1
+!s85 0
+31
+R8
+!s107 D:/univrsity/Computer Arch/CA/1/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/counter.v|
+!i113 1
+R6
+R7
+vdatapath
+R0
+!i10b 1
+!s100 18;kg?^elnaGM:H@Ql0T>3
+R1
+IGUaHzh?]FYn1WF8]Y6@HH1
+R2
+R3
+w1710274649
+8D:/univrsity/Computer Arch/CA/1/datapath.v
+FD:/univrsity/Computer Arch/CA/1/datapath.v
+!i122 51
+L0 1 30
+R5
+r1
+!s85 0
+31
+R8
+!s107 D:/univrsity/Computer Arch/CA/1/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/datapath.v|
+!i113 1
+R6
+R7
+vdivider
+R0
+!i10b 1
+!s100 E699[Fh>z8jlMXkgzBUO23
+R1
+I94SXJ:^lhz4g5UE4RI[jZ2
+R2
+R3
+w1710325614
+8D:/univrsity/Computer Arch/CA/1/divider.v
+FD:/univrsity/Computer Arch/CA/1/divider.v
+!i122 52
+L0 1 9
+R5
+r1
+!s85 0
+31
+R8
+!s107 D:/univrsity/Computer Arch/CA/1/divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/divider.v|
+!i113 1
+R6
+R7
+vdivider_tb
+R0
+!i10b 1
+!s100 66H82i^JZi:PWlHf2kIoU3
+R1
+IgVHOEM4nSUGgRSd^_Wa0b1
+R2
+R3
+w1710325623
+8D:/univrsity/Computer Arch/CA/1/divider_tb.v
+FD:/univrsity/Computer Arch/CA/1/divider_tb.v
+!i122 53
+L0 2 27
+R5
+r1
+!s85 0
+31
+R8
+!s107 D:/univrsity/Computer Arch/CA/1/divider_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/divider_tb.v|
+!i113 1
+R6
+R7
+vregister
+R0
+!i10b 1
+!s100 L8kzg_ih^ODaK5k5oM5Sb1
+R1
+IIj^YPnoPVlUDV19XA7C:^1
+R2
+R3
+Z9 w1710274653
+8D:/univrsity/Computer Arch/CA/1/register.v
+FD:/univrsity/Computer Arch/CA/1/register.v
+!i122 54
+Z10 L0 1 16
+R5
+r1
+!s85 0
+31
+R8
+!s107 D:/univrsity/Computer Arch/CA/1/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/register.v|
+!i113 1
+R6
+R7
+vshiftReg10B
+R0
+!i10b 1
+!s100 i4S?T8?HR=HQ5min@C2hR3
+R1
+I=zPIWoG>:WCA[V>Ffg^833
+R2
+R3
+R9
+8D:/univrsity/Computer Arch/CA/1/shiftReg10B.v
+FD:/univrsity/Computer Arch/CA/1/shiftReg10B.v
+!i122 55
+L0 1 19
+R5
+r1
+!s85 0
+31
+R8
+!s107 D:/univrsity/Computer Arch/CA/1/shiftReg10B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/shiftReg10B.v|
+!i113 1
+R6
+R7
+nshift@reg10@b
+vshiftReg11B
+Z11 !s110 1710325643
+!i10b 1
+!s100 nRHFj=nBGF[LDG_LnV[kc1
+R1
+IkKBMQW2eYK29o_6[GaKID3
+R2
+R3
+w1710274655
+8D:/univrsity/Computer Arch/CA/1/shiftReg11B.v
+FD:/univrsity/Computer Arch/CA/1/shiftReg11B.v
+!i122 56
+R10
+R5
+r1
+!s85 0
+31
+R8
+!s107 D:/univrsity/Computer Arch/CA/1/shiftReg11B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/shiftReg11B.v|
+!i113 1
+R6
+R7
+nshift@reg11@b
+vsubtractor
+R11
+!i10b 1
+!s100 4NTzgV2JYUYQaY0z4[^oQ1
+R1
+IGibNEa`eNkBkS?6dLOTUd3
+R2
+R3
+w1710315910
+8D:/univrsity/Computer Arch/CA/1/subtractor.v
+FD:/univrsity/Computer Arch/CA/1/subtractor.v
+!i122 57
+R4
+R5
+r1
+!s85 0
+31
+!s108 1710325643.000000
+!s107 D:/univrsity/Computer Arch/CA/1/subtractor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/Computer Arch/CA/1/subtractor.v|
+!i113 1
+R6
+R7
