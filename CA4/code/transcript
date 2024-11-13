@@ -1,0 +1,47 @@
+# Compile of Adder.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Data_Memory.v was successful.
+# Compile of Extend.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of MUX2to1.v was successful.
+# Compile of Mux3to1.v was successful.
+# Compile of PC_Register.v was successful.
+# Compile of Pipeline_Register_DE.v was successful.
+# Compile of Pipeline_Register_EM.v was successful.
+# Compile of Pipeline_Register_FD.v was successful.
+# Compile of Pipeline_Register_MW.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of RISC_V.v was successful.
+# Compile of RISC_V_Controller.v was successful.
+# Compile of RISC_V_Datapath.v was successful.
+# Compile of RISC_V_Hazard.v was successful.
+# Compile of TestBench.v was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -gui work.riscV_PL_TB
+# vsim -gui work.riscV_PL_TB 
+# Start time: 11:49:16 on Jun 12,2024
+# Loading work.riscV_PL_TB
+# Loading work.RISC_V_PL
+# Loading work.Controller
+# Loading work.Datapath
+# Loading work.mux_2to1_32bit
+# Loading work.PC_Register
+# Loading work.Instruction_Memory
+# Loading work.Adder
+# Loading work.PipeLine_Register_FD
+# Loading work.Register_File
+# Loading work.Extend
+# Loading work.PipeLine_Register_DE
+# Loading work.mux_3to1_32bit
+# Loading work.ALU
+# Loading work.PipeLine_Register_EM
+# Loading work.Data_Memory
+# Loading work.PipeLine_Register_MW
+# Loading work.Hazard_Unit
+run -all
+# ** Note: $stop    : F:/UT/T6/CA/CA/CA4/code/TestBench.v(12)
+#    Time: 10010 ps  Iteration: 0  Instance: /riscV_PL_TB
+# Break in Module riscV_PL_TB at F:/UT/T6/CA/CA/CA4/code/TestBench.v line 12
+quit -sim
+# End time: 11:50:44 on Jun 12,2024, Elapsed time: 0:01:28
+# Errors: 0, Warnings: 5

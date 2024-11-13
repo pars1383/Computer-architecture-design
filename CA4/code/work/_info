@@ -1,0 +1,441 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAdder
+!s110 1718180347
+!i10b 1
+!s100 ?e>``ziz5G16Wh`9@lY3l2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?V3G?n6?NX^]ih`=nl:D73
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/UT/T6/CA/CA/CA4/code
+Z3 w1686872832
+8F:/UT/T6/CA/CA/CA4/code/Adder.v
+FF:/UT/T6/CA/CA/CA4/code/Adder.v
+!i122 0
+L0 1 6
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1718180347.000000
+!s107 F:/UT/T6/CA/CA/CA4/code/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@adder
+vALU
+Z8 !s110 1718180348
+!i10b 1
+!s100 o:6_c[C=o?HRR4>o=8dBf1
+R0
+IRUQPAeim7I@[k]g3V?@Bl0
+R1
+R2
+w1718179553
+8F:/UT/T6/CA/CA/CA4/code/ALU.v
+FF:/UT/T6/CA/CA/CA4/code/ALU.v
+!i122 1
+L0 12 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 F:/UT/T6/CA/CA/CA4/code/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vController
+R8
+!i10b 1
+!s100 MT;]beSefT^AH;ik68P:11
+R0
+IMYJZ<i9F@_@KIIOYEX@DN0
+R1
+R2
+w1718179522
+8F:/UT/T6/CA/CA/CA4/code/RISC_V_Controller.v
+FF:/UT/T6/CA/CA/CA4/code/RISC_V_Controller.v
+!i122 14
+L0 10 52
+R4
+r1
+!s85 0
+31
+Z9 !s108 1718180348.000000
+!s107 F:/UT/T6/CA/CA/CA4/code/RISC_V_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/RISC_V_Controller.v|
+!i113 1
+R6
+R7
+n@controller
+vData_Memory
+R8
+!i10b 1
+!s100 CDIJM;96edJmXEL_[jZbL2
+R0
+Ih4a5;^Se^IZ@gMRn;12<52
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Data_Memory.v
+FF:/UT/T6/CA/CA/CA4/code/Data_Memory.v
+!i122 2
+Z10 L0 1 22
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Data_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Data_Memory.v|
+!i113 1
+R6
+R7
+n@data_@memory
+vDatapath
+R8
+!i10b 1
+!s100 6@4dLA^MEbnhjURIHRdMl0
+R0
+IH[hIO>Nz;f8WO0_mf:2;V1
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/RISC_V_Datapath.v
+FF:/UT/T6/CA/CA/CA4/code/RISC_V_Datapath.v
+!i122 15
+L0 1 81
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/RISC_V_Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/RISC_V_Datapath.v|
+!i113 1
+R6
+R7
+n@datapath
+vExtend
+R8
+!i10b 1
+!s100 e57PD_2NkS0=W0kl[begL2
+R0
+Ifg4KQbU3DFW7<5Pc28T840
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Extend.v
+FF:/UT/T6/CA/CA/CA4/code/Extend.v
+!i122 3
+Z11 L0 1 17
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Extend.v|
+!i113 1
+R6
+R7
+n@extend
+vHazard_Unit
+Z12 !s110 1718180349
+!i10b 1
+!s100 RVX9lLo_UeU8aKe_XVBo=3
+R0
+Ij=9kaW9^fg617ZKZmFgP:0
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/RISC_V_Hazard.v
+FF:/UT/T6/CA/CA/CA4/code/RISC_V_Hazard.v
+!i122 16
+L0 1 28
+R4
+r1
+!s85 0
+31
+Z13 !s108 1718180349.000000
+!s107 F:/UT/T6/CA/CA/CA4/code/RISC_V_Hazard.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/RISC_V_Hazard.v|
+!i113 1
+R6
+R7
+n@hazard_@unit
+vInstruction_Memory
+R8
+!i10b 1
+!s100 LlSANFjK8^>2R_ei`1;KM1
+R0
+IaaLJfNQd??lLFDHB6?EX93
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Instruction_Memory.v
+FF:/UT/T6/CA/CA/CA4/code/Instruction_Memory.v
+!i122 4
+L0 1 13
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Instruction_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Instruction_Memory.v|
+!i113 1
+R6
+R7
+n@instruction_@memory
+vmux_2to1_32bit
+R8
+!i10b 1
+!s100 TV1@bkVU@[Onoe8`GnCl@3
+R0
+Ik62E]nL?ODggHNiaoiil31
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/MUX2to1.v
+FF:/UT/T6/CA/CA/CA4/code/MUX2to1.v
+!i122 5
+L0 1 7
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/MUX2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/MUX2to1.v|
+!i113 1
+R6
+R7
+vmux_3to1_32bit
+R8
+!i10b 1
+!s100 ck=FoJTSO[a@U:WF[k^@e0
+R0
+ISO:UgPUanlHkHJQjPg0T62
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Mux3to1.v
+FF:/UT/T6/CA/CA/CA4/code/Mux3to1.v
+!i122 6
+L0 1 8
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Mux3to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Mux3to1.v|
+!i113 1
+R6
+R7
+vPC_Register
+R8
+!i10b 1
+!s100 ANAE;JcgOBW4=KSdi4]`c1
+R0
+IaWBLNQm5XFWXB3:UAaGlB2
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/PC_Register.v
+FF:/UT/T6/CA/CA/CA4/code/PC_Register.v
+!i122 7
+L0 3 13
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/PC_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/PC_Register.v|
+!i113 1
+R6
+R7
+n@p@c_@register
+vPipeLine_Register_DE
+R8
+!i10b 1
+!s100 YE<]e;SUb>JM?9]h7h3@R0
+R0
+IN`3dPJ`SeEc1V[XI5ggib2
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_DE.v
+FF:/UT/T6/CA/CA/CA4/code/Pipeline_Register_DE.v
+!i122 8
+L0 1 42
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_DE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_DE.v|
+!i113 1
+R6
+R7
+n@pipe@line_@register_@d@e
+vPipeLine_Register_EM
+R8
+!i10b 1
+!s100 4>5L8:DQQH:KazXFA:P@m2
+R0
+II7YGAPTC]DB6?lE2<Z>_L1
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_EM.v
+FF:/UT/T6/CA/CA/CA4/code/Pipeline_Register_EM.v
+!i122 9
+Z14 L0 1 25
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_EM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_EM.v|
+!i113 1
+R6
+R7
+n@pipe@line_@register_@e@m
+vPipeLine_Register_FD
+R8
+!i10b 1
+!s100 mcjn:nYz_L69[DFIUAJ;_2
+R0
+IEj;V3_4mXeGjdgDOF98]k0
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_FD.v
+FF:/UT/T6/CA/CA/CA4/code/Pipeline_Register_FD.v
+!i122 10
+R11
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_FD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_FD.v|
+!i113 1
+R6
+R7
+n@pipe@line_@register_@f@d
+vPipeLine_Register_MW
+R8
+!i10b 1
+!s100 5kVDhPE3C7zScL>1]19LV0
+R0
+IAOH0iFI4PMRFXE2LT5W=T3
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_MW.v
+FF:/UT/T6/CA/CA/CA4/code/Pipeline_Register_MW.v
+!i122 11
+L0 1 24
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_MW.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_MW.v|
+!i113 1
+R6
+R7
+n@pipe@line_@register_@m@w
+vRegister_File
+R8
+!i10b 1
+!s100 597_9MZ[V=2fT<Bk=@:_?1
+R0
+IAPh^lzfRTmF5fQk]T=8RB3
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/Register_File.v
+FF:/UT/T6/CA/CA/CA4/code/Register_File.v
+!i122 12
+R10
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/Register_File.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/Register_File.v|
+!i113 1
+R6
+R7
+n@register_@file
+vRISC_V_PL
+R8
+!i10b 1
+!s100 hUk^jTX`YzK7ec1_;3MNH0
+R0
+I7AIlF?_LRHBSUIfj?XKc72
+R1
+R2
+R3
+8F:/UT/T6/CA/CA/CA4/code/RISC_V.v
+FF:/UT/T6/CA/CA/CA4/code/RISC_V.v
+!i122 13
+R14
+R4
+r1
+!s85 0
+31
+R9
+!s107 F:/UT/T6/CA/CA/CA4/code/RISC_V.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/RISC_V.v|
+!i113 1
+R6
+R7
+n@r@i@s@c_@v_@p@l
+vriscV_PL_TB
+R12
+!i10b 1
+!s100 O6;S_Ui0[NbBQTRAjb?[j3
+R0
+IPn[Z@Z_XBQ8;[:^<O>kBU0
+R1
+R2
+w1718179260
+8F:/UT/T6/CA/CA/CA4/code/TestBench.v
+FF:/UT/T6/CA/CA/CA4/code/TestBench.v
+!i122 17
+L0 1 15
+R4
+r1
+!s85 0
+31
+R13
+!s107 F:/UT/T6/CA/CA/CA4/code/TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/UT/T6/CA/CA/CA4/code/TestBench.v|
+!i113 1
+R6
+R7
+nrisc@v_@p@l_@t@b

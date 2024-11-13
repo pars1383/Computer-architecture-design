@@ -1,0 +1,127 @@
+F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_MW.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_MW.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PipeLine_Register_MW
+
+Top level modules:
+	PipeLine_Register_MW
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/PC_Register.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/PC_Register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/TestBench.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/TestBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module riscV_PL_TB
+
+Top level modules:
+	riscV_PL_TB
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Adder.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Extend.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Extend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Extend
+
+Top level modules:
+	Extend
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/RISC_V_Controller.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/RISC_V_Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Mux3to1.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Mux3to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_3to1_32bit
+
+Top level modules:
+	mux_3to1_32bit
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/RISC_V_Datapath.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/RISC_V_Datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/RISC_V.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/RISC_V.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_PL
+
+Top level modules:
+	RISC_V_PL
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/RISC_V_Hazard.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/RISC_V_Hazard.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Hazard_Unit
+
+Top level modules:
+	Hazard_Unit
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/MUX2to1.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/MUX2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_2to1_32bit
+
+Top level modules:
+	mux_2to1_32bit
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/ALU.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Data_Memory.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Data_Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Instruction_Memory.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Instruction_Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_DE.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_DE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PipeLine_Register_DE
+
+Top level modules:
+	PipeLine_Register_DE
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_EM.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_EM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PipeLine_Register_EM
+
+Top level modules:
+	PipeLine_Register_EM
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_FD.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Pipeline_Register_FD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PipeLine_Register_FD
+
+Top level modules:
+	PipeLine_Register_FD
+
+} {} {}} F:/UT/T6/CA/CA/CA4/code/Register_File.v {1 {vlog -work work -stats=none F:/UT/T6/CA/CA/CA4/code/Register_File.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}}
